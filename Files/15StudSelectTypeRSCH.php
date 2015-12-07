@@ -11,15 +11,10 @@
 		<h1>Schedule Appointment</h1>
 		<h2>What kind of advising appointment would you like?</h2><br>
         <!-- Form to process the type of advising appointment the user wants -->
-	<form action="16StudSelectAdvisorRSCH.php" method="post" name="SelectType">
+	<form action="StudProcessTypeRSCH.php" method="post" name="SelectType">
 	<div class="nextButton">
-		<input type="submit" name="type" class="button large go" value="Individual">
-                </div> 
-                </form>
-
-        <form action="17StudSelectTimeRSCH.php" method="post" name="SelectAdvisor">
-        <div class="nextButton">
-		<input type="submit" name="advisor" class="button large go" value="Group" <!--style="float: left;"-->
+		<input type="submit" name="advisor" class="button large go" value="Individual">
+		<input type="submit" name="advisor" class="button large go" value="Group" style="float: right;">
 		</div>
 		</form>
 
