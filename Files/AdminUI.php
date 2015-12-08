@@ -58,6 +58,11 @@ $COMMON = new Common($debug);
         <div class="field">
           
         </div>
+	 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 	</div>
 
 	<?php include('../workOrder/workButton.php'); ?>

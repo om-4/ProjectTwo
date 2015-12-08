@@ -96,6 +96,12 @@ session_start();
   </div>
   </div>
 	<?php include('../workOrder/workButton.php'); ?>
+
+	 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
   </div>
   </body>
   

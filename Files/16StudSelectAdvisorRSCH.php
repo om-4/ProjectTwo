@@ -43,6 +43,12 @@ $COMMON = new Common($debug);
 		<form method="link" action="02StudHome.php">
 		<input type="submit" name="home" class="button large" value="Cancel">
 		</form>
+
+		 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 		</div>
   </body>
 </html>

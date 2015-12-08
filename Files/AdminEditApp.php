@@ -31,6 +31,11 @@ session_start();
 	</form>
          
         </div>
+	 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 	</div>
 		
   </body>

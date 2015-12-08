@@ -194,6 +194,12 @@ $COMMON = new Common($debug);
 		</div>
 		<div class="bottom">
 		<p>If the Major category is followed by a blank, then it is open for all majors.</p>
+
+		 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 		</div>
   </body>
 </html>

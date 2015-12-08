@@ -89,6 +89,11 @@ session_start();
         }
 		?>
 	</div>
+	 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 	</div>
 	</form>
   </body>

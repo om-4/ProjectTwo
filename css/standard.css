@@ -175,6 +175,33 @@ html{
       font-size: 16px; 
       font-weight: normal; 
       }
+
+      .clearfooter {
+      height: 330px;
+      clear: both;
+      }
+
+      footer {
+    bottom: 0px;
+    position: fixed;
+    text-align: center;
+    left: 0;
+    right: 0;
+
+      }
+
+   .footer {
+   position:fixed;
+    bottom:0;
+    left:50%;
+    margin-left:-480px; /*negative half the width */
+    margin-bottom: 16px;
+    width:960px;
+    height:82px;
+     border-radius: 8px;
+   background-color: #FFFFFF
+  
+      }
     
       @media screen and (max-width: 767px){
         html, body { background-color: #fff; }

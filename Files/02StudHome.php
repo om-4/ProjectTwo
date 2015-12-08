@@ -105,6 +105,11 @@ session_start();
 	    <div class="logoutButton">
 			<input type="submit" name="logout" class="button large go" value="Logout">
 	    </div>
+		 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 		</div>
 		</form>
   </body>

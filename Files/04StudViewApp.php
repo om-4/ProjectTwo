@@ -68,6 +68,11 @@ $studID = $_SESSION["studID"];
 	    <div class="finishButton">
 			<button onclick="location.href = '02StudHome.php'" class="button large go" >Return to Home</button>
 	    </div>
+	     <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 		</div>
 		</form>
   </body>

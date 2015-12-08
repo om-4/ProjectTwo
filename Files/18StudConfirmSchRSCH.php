@@ -111,6 +111,12 @@ session_start();
 			<input style="margin-left: 50px" type="submit" name="finish" class="button large" value="Cancel">
 	    </div>
 		</form>
+
+		 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 		</div>
   </body>
 </html>

@@ -69,6 +69,12 @@ $COMMON = new Common($debug);
 		<!--Cancel message-->
 		<div class="bottom">
 			<p>Click "Cancel" to cancel appointment. Click "Keep" to keep appointment.</p>
+
+			 <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 		</div>
 		</form>
   </body>

@@ -70,6 +70,12 @@ $COMMON = new Common($debug);
 	    <div class="returnButton">
 			<input type="submit" name="return" class="button large go" value="Return to Home">
 	    </div>
+
+	     <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 		</div>
 		</form>
 

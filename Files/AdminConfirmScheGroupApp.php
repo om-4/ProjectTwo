@@ -138,6 +138,11 @@ $COMMON = new Common($debug);
       <div class="bottom">
         <p><span style="color:red">!!</span> indicates that this appointment already exists. A repeat appointment was not made.</p>
       </div>
+       <footer>
+	      <div class ="footer">
+		<img src="../photos/website_footer.png" alt="UMBC" style="width:900px;height:82px;">
+	      </div>
+	     </footer>
 	</div>
 	</form>
   </body>
