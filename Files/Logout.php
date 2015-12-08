@@ -1,6 +1,6 @@
 <?php
 session_start();
-$flag = true;
+$flag = false;
 
 if(isset($_SESSION['userId'])) { $flag = false; }
 
